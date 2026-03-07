@@ -1,0 +1,66 @@
+/* Page background */
+body{
+    background:#f2f7f3;
+    font-family: system-ui, -apple-system, sans-serif;
+    color:#2f3e34;
+    margin:40px;
+}
+
+/* Headings */
+h1{
+    color:#2f6f4e;
+    border-bottom:3px solid #9fd3b4;
+    padding-bottom:8px;
+}
+
+h2{
+    color:#3f8f63;
+    margin-top:35px;
+}
+
+h3{
+    color:#4ca978;
+}
+
+h4{
+    color:#5a8f74;
+}
+
+/* Paragraph text */
+p{
+    line-height:1.6;
+    margin-bottom:15px;
+}
+
+/* Tables */
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:15px;
+    margin-bottom:25px;
+    background:white;
+}
+
+/* Table header */
+th{
+    background:#d7efe1;
+    padding:10px;
+    text-align:left;
+}
+
+/* Table cells */
+td{
+    padding:10px;
+    border-top:1px solid #e4f3ea;
+}
+
+/* Row hover effect */
+tr:hover{
+    background:#f0faf4;
+}
+
+/* Images if any */
+img{
+    max-width:100%;
+    border-radius:6px;
+}
